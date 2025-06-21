@@ -1,6 +1,11 @@
 # Hello-World
 This is my first repository @ Github! Let´s test Github ways-of-working and work-flows!
-<br/><br/>**Core Net AB**, based in Stockholm, is a dynamic enterprise founded by a team of accomplished technology entrepreneurs with extensive expertise in Information Security, Privacy, Governance, Legal, Compliance, and Risk Management. Committed to excellence, the company adheres to rigorous industry standards, including ISO 27001/2, ISO 27005, ISO 27017, ISO 27018, and CSA CCM, embedding robust information security principles across all operations.
+<br/><br/>**Core Net AB**, based in Stockholm, is a dynamic enterprise founded by a team of accomplished technology entrepreneurs with extensive expertise in Information Security, Privacy, Governance, Legal, Compliance, and Risk Management. Committed to excellence, the company adheres to rigorous industry standards and Frameworks;
+<br/>
+&emsp; International Organization for Standardization (ISO) 27001/2, ISO 27005, ISO 27017, ISO 27018, CSA Cloud Controls Matrix CCM) / Consensus Assessment Initiative Questionnaire (CAIQ), ISF, NIST
+
+<br/>
+embedding robust information security principles across all operations.
 <br/><br/> With a vision to establish itself as a leading innovator, Core Net AB aspires to serve as a pivotal hub for businesses, entrepreneurs, governments, public safety and national security organizations, developers, and global communities. The company is dedicated to building;
 <br/>
 &emsp; a) Secure, Scalable, & Resilient Infrastructure.
