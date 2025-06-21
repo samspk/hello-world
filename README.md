@@ -2,7 +2,13 @@
 This is my first repository @ Github! Let´s test Github ways-of-working and work-flows!
 <br/><br/>**Core Net AB**, based in Stockholm, is a dynamic enterprise founded by a team of accomplished technology entrepreneurs with extensive expertise in Information Security, Privacy, Governance, Legal, Compliance, and Risk Management. Committed to excellence, the company adheres to rigorous industry standards and Frameworks;
 <br/>
-&emsp; International Organization for Standardization (ISO) 27001/2, ISO 27005, ISO 27017, ISO 27018, CSA Cloud Controls Matrix CCM) / Consensus Assessment Initiative Questionnaire (CAIQ), ISF, NIST
+&emsp; International Organization for Standardization (ISO) 27001/2, ISO 27005, ISO 27017, ISO 27018 - https://www.iso.org/standard/27001
+<br/>
+&emsp; CSA Cloud Controls Matrix CCM) / Consensus Assessment Initiative Questionnaire (CAIQ) - https://cloudsecurityalliance.org/
+<br/>
+&emsp; Information Security Forum (ISF) Standard of Good Practice for Information Security (SOGP) - https://www.securityforum.org/ 
+<br/>
+&emsp; US National Institute of Standards and Technology (NIST) Cybersecurity Framework 2.0 - https://www.nist.gov/cyberframework
 
 <br/>
 embedding robust information security principles across all operations.
