@@ -27,7 +27,7 @@ Core Net AB is embedding robust information security principles across all opera
 <br/>
 &emsp; - EU Artificial Intelligence (**AI**) Act - https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
 <br/>
-&emsp; - EU Network and Information System (**NIS2**) Cybersecurity & Resilience - https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
+&emsp; - EU Network and Information System (**NIS2**) Cybersecurity & Resilience - https://eur-lex.europa.eu/eli/dir/2022/2555/oj
 <br/>
 <br/> With a vision to establish itself as a leading innovator, Core Net AB aspires to serve as a pivotal hub for businesses, entrepreneurs, governments, public safety and national security organizations, developers, and global communities. The company is dedicated to building;
 <br/>
