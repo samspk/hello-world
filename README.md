@@ -15,7 +15,6 @@ Core Net AB is embedding robust information security principles across all opera
 &emsp; - EU General Data Protection Regulation (**GDPR**) - https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng 
 <br/>
 &emsp; - EU Digital Operational Resilience Act (**DORA**) - https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng 
-<br/>
 <br/> &emsp;&emsp;&emsp; Chapter I: General Provisions (Articles 1–4)
 <br/> &emsp;&emsp;&emsp; Chapter II: **ICT Risk Management** (Articles 5–16)
 <br/> &emsp;&emsp;&emsp; Chapter III: **ICT-Related Incident Management, Classification, and Reporting** (Articles 17–23) 
@@ -25,9 +24,8 @@ Core Net AB is embedding robust information security principles across all opera
 <br/> &emsp;&emsp;&emsp; Chapter VII: Competent Authorities (Articles 46–56) 
 <br/> &emsp;&emsp;&emsp; Chapter VIII: Delegated Acts (Article 57)  
 <br/> &emsp;&emsp;&emsp; Chapter IX: Transitional and Final Provisions (Articles 58–64)  
-
 <br/>
-&emsp; - Information Security Forum (**ISF**) Standard of Good Practice for Information Security (SOGP) - https://www.securityforum.org/ 
+&emsp; - EU Artificial Intelligence (**AI**) Act - https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
 
 <br/><br/> With a vision to establish itself as a leading innovator, Core Net AB aspires to serve as a pivotal hub for businesses, entrepreneurs, governments, public safety and national security organizations, developers, and global communities. The company is dedicated to building;
 <br/>
