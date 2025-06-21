@@ -31,10 +31,10 @@ Core Net AB is embedding robust information security principles across all opera
 <br/>
 <br/> With a vision to establish itself as a leading innovator, Core Net AB aspires to serve as a pivotal hub for businesses, entrepreneurs, governments, public safety and national security organizations, developers, and global communities. The company is dedicated to building;
 <br/>
-&emsp; a) Secure, Scalable, & Resilient Infrastructure.
+&emsp; a) **Secure, Scalable, & Resilient Infrastructure**.
 <br/>
-&emsp; b) Impactful User-friendly and Safe Decentralized Applications. 
+&emsp; b) **Impactful User-friendly and Safe Decentralized Applications**. 
 <br/>
-&emsp; c) Decentralized and Centralized Blockchain Platforms.
+&emsp; c) **Decentralized and Centralized Blockchain Platforms**.
 <br/><br/>
 Core Net AB champions the belief that collaborative contributions to the Decentralized and Centralized Blockchain ecosystem can drive meaningful advancements. By fostering cooperation, the company seeks to create solutions that enhance the well-being, environment, and financial growth of global and local societies, promoting innovation, security, and shared prosperity.
